@@ -1,0 +1,12 @@
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+*.exe
+*.input
+*.output.*
+*_nice
+*.prof
+*.in*
+.ghc.environment*
+session_cookie
